@@ -15,7 +15,7 @@ Formulário para praticar minhas habilidades em HTML e CSS.
 ### Autor
 ---
 
-<a href="https://augecode.com/">
+<a href="">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/jacqueline-dev" width="100px;" alt=""/>
  <br />
  <sub><b>Jacqueline</b></sub></a> <a href="https://augecode.com/" title="Augecode"></a>
